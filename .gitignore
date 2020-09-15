@@ -3,3 +3,6 @@
 ################################################################################
 
 /Functions.IOC/.vs
+/Functions.IOC/Project.Services/obj/Debug
+/Functions.IOC/packages
+/Functions.IOC/Project.Services/bin/Debug
